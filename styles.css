@@ -28,3 +28,6 @@ input{
 h5{
 	line-height:50px;
 }
+.block-heading>p{
+	text-align:center;
+}
