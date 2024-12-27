@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.product{
+	margin:20px;
+	padding:20px;
+}
+body{
+	background-color:aliceblue;
+	
+}
+.summary{
+	padding:10px;
+	border-top: 2px solid #5ea4f3;
+	
+	background-color:#f7fbff;
+}
+.block-heading{
+	color:#3b99e0;
+	text-align:center;
+}
+ul>li{
+	list-style:none;
+}
+input{
+	width:50px;
+	text-align:center;
+}
+h5{
+	line-height:50px;
+}
